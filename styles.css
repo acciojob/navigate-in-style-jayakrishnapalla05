@@ -6,6 +6,7 @@
 .container ul{
 	display:flex;
 	list-style:none;
+	padding:10px;
 }
 .container li{
 	margin-right:1rem;
