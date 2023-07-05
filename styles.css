@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+nav{
+	background-color:#D3D3D3;
+	paddding:10px;
+}
+#container ul{
+	display:flex;
+	list-style:none;
+}
+#container li{
+	margin-right:1rem;
+}
